@@ -5,9 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryansaha" alt="aaryansaha" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube clone**
-
-- 🤝 I’m looking for help with **CSS**
+-🔭 I’m currently working on Myself 
+-🌱 I’m currently learning more about BlockChain.
+-👯 I’m looking to collaborate on Youtube.
+-🤔 I’m looking for help with various documentation.
+-💬 Ask me about Data Structures and Algorithm  or any tech-related stuff.
+-📫 How to reach me: linkedin @Aaryan Saha
+-😄 Pronouns: He/His
+-⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
