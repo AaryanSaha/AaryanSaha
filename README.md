@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Aaryan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aaryan Saha </h1>
+<h3 align="center">A passionate Coder from India</h3>
 
-
--🔭 I’m currently working on Myself 
--🌱 I’m currently learning more about BlockChain.
--👯 I’m looking to collaborate on Youtube.
--🤔 I’m looking for help with various documentation.
--💬 Ask me about Data Structures and Algorithm  or any tech-related stuff.
--📫 How to reach me: linkedin @Aaryan Saha
--😄 Pronouns: He/His
--⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+<i>CODE WITH COFFEE </i>
+<br>
+<br>
+<img src=" t.ly/87u6">
+<br>
+-🔭 I’m currently working on Myself </br>
+-🌱 I’m currently learning more about BlockChain. </br>
+-👯 I’m looking to collaborate on Youtube. </br>
+-🤔 I’m looking for help with various documentation. </br>
+-💬 Ask me about Data Structures and Algorithm  or any tech-related stuff. </br>
+-📫 How to reach me: linkedin @Aaryan Saha or simply drop a mail on @aaryansaha143@gmail.com </br>
+-😄 Pronouns: He/His </br>
+-⚡ Fun fact: I spend almost 12 hours listening to songs every day. </br>
 
 <h3 align="left">Connect with me:</h3>
 
