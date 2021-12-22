@@ -4,7 +4,7 @@
 <i>CODE WITH COFFEE </i>
 <br>
 <br>
-<img src=" t.ly/87u6">
+<img src=" https://i0.wp.com/luamaralstudio.com/wp-content/uploads/2020/03/laptop-wallpaper-gif-1.gif?resize=500%2C220">
 <br>
 -🔭 I’m currently working on Myself </br>
 -🌱 I’m currently learning more about BlockChain. </br>
